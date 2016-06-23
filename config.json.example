@@ -1,0 +1,10 @@
+{
+	"proxyIP":	"1.2.3.4",
+	"proxyPort": 5060,
+	"transport":	"tcp",
+	"localPort":	5060,
+	"username":	"myusername",
+	"password":	"12345",
+	"phonenumber": "myphonenumber",
+	"pin":	14
+}
